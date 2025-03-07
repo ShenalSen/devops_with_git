@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\devops_with_git.props" />
+</Project>
